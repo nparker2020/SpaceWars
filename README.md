@@ -14,15 +14,15 @@ Features included:
 -"pickups" that randomly spawn around the field giving the player a temporary ability.
 i.e. a giant laser that can sweep the entire screen eliminating everything in its path:
 
-![Image description](https://raw.githubusercontent.com/nparker2020/spacewars/master/laser.png)
+![Image description](https://raw.githubusercontent.com/nparker2020/spacewars/master/laser.jpg)
 
 Or missiles that will track the closest enemy until a target is hit:
 
-![Image description](https://raw.githubusercontent.com/nparker2020/spacewars/master/missile.png)
+![Image description](https://raw.githubusercontent.com/nparker2020/spacewars/master/missiles.jpg)
 
 Or, a shield that can deflect lasers shot by other players:
 
-![Image description](https://raw.githubusercontent.com/nparker2020/spacewars/master/shield.png)
+![Image description](https://raw.githubusercontent.com/nparker2020/spacewars/master/shield.jpg)
 
 
 -Full xbox controller support
